@@ -32,3 +32,20 @@ Shravani (GitHub: Shravani9529)
 License
 
 This project is open-source and free to use for educational and personal purposes.
+
+## Demo Output
+
+### Main Menu
+![Main Menu](images/1.jpeg)
+
+### Addition Operation
+![Addition](images/2.jpeg)
+
+### Temperature Conversion
+![Temperature Conversion](images/3.jpeg)
+
+### Area Calculation
+![Area](images/4.jpeg)
+
+### Speed Calculation
+![Speed](images/5.jpeg)
